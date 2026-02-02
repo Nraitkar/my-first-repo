@@ -1,2 +1,3 @@
-# my-first-repo
-My first GitHub repository to learn Git basics
+# My First GitHub Repository
+
+This repository is created to learn Git and GitHub basics.
